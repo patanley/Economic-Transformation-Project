@@ -1,9 +1,7 @@
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
+<h1 align="center" style="color:MediumSeaGreen;"> <b> Economic Transformation Database Project  </b></h1>
 
-  <br /><br /><strong>Economic Transformation Database Project</strong>
-</h1>
-
-
+<div align="center"><a href="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png"><img src="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
+  
 ---
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
