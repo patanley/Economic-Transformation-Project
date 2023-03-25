@@ -3,6 +3,7 @@
   <br /><br /><strong>Economic Transformation Database Project</strong>
 </h1>
 
+<img src="C:\Users\patan\Documents\GitHub\Economic-Transformation-Project\Images\Economic_Transformation.png" alt="Olympic Medals" width="1100" height = "450" align="center">
 ---
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
@@ -16,7 +17,7 @@ The objective of this data analytics project is to analyze and visualize the mea
 
 The project will focus on identifying patterns and trends in economic growth and labor inputs over time, highlighting the most significant industries and countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
 
@@ -25,7 +26,7 @@ The project will focus on identifying patterns and trends in economic growth and
 The problem statement for this data analytics project is to investigate the structural transformation of economies over time, particularly in developing countries and low-income economies. Structural transformation is a key aspect of economic development that involves shifting from low-productivity sectors to those of higher productivity, often resulting in the emergence and expansion of new industries that can contribute to better jobs and improved livelihoods. 
 
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
 ## :bar_chart:  Data
@@ -35,7 +36,7 @@ The ETD is also accessible through [Download the database](https://www.rug.nl/gg
 
 > 💡 Other outputs of the joint project include two working papers on insights into economic transformation.
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
 
@@ -49,7 +50,7 @@ Key questions:
 * Can countries achieve growth, provide good jobs, and reduce poverty without industrialization?
 * Can modern agriculture and modern services serve as an alternative mechanism of structural transformation and economic growth?
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
 
@@ -57,11 +58,11 @@ Key questions:
 
 > 💡 Technical
 
-ETL was used for integrating and consolidating data from multiple sources, making it accessible and usable for data analytics and business intelligence purposes.
+`ETL` was used for integrating and consolidating data from multiple sources, making it accessible and usable for data analytics and business intelligence purposes.
 
-SQL was used for data extraction and manipulation to create a clean, integrated dataset that includes the variables of value added at constant and current prices, and persons employed. 
+`SQL` was used for data extraction and manipulation to create a clean, integrated dataset that includes the variables of value added at constant and current prices, and persons employed. 
 
-Power BI was used for data visualization and analysis to generate insights into the economic and labor dynamics of the selected economies and sectors.
+`Power BI` was used for data visualization and analysis to generate insights into the economic and labor dynamics of the selected economies and sectors.
 
 
 
@@ -75,25 +76,25 @@ The project will focus on identifying patterns and trends in economic growth and
 
 > 💡 Steps
 
-I. Extract data as CSV
+`Load data` as CSV
 
-II. Load data to ETL to create a pipeline that ensures the data is accurate, consistent, and usable for analysis and reporting purposes. 
+`Load data to ETL` to create a pipeline that ensures the data is accurate, consistent, and usable for analysis and reporting purposes. 
   * Buid the necessary dimensions and
   * Build a fact table
 
-III. Load the data into a SQL database: Once the data has been transformed, it needs to be loaded into a SQL database so that it can be easily queried and analyzed. 
+`Load the data into a SQL database:` Once the data has been transformed, it needs to be loaded into a SQL database so that it can be easily queried and analyzed. 
 
-IV. Write SQL queries to extract data: Once the data is loaded into a SQL database, you will need to write SQL queries to extract the data you need for your dashboard.     This can involve selecting specific columns, filtering data based on certain criteria, and aggregating data to create summary metrics. Create a star schema.
+`Write SQL queries to extract data:` Once the data is loaded into a SQL database, you will need to write SQL queries to extract the data you need for your dashboard.     This can involve selecting specific columns, filtering data based on certain criteria, and aggregating data to create summary metrics. Create a star schema.
 
-V. Connect to Power BI: Once you have extracted the data using SQL queries, you will need to connect to Power BI. This can be done using the Power BI Desktop            application or the Power BI Service.
+`Connect to Power BI:` Once you have extracted the data using SQL queries, you will need to connect to Power BI. This can be done using the Power BI Desktop            application or the Power BI Service.
 
-VI. Create visualizations: Once you have connected to Power BI, you can start creating visualizations for your dashboard. This can involve creating charts, graphs, and tables that display the data in a meaningful way.
+`Create visualizations:` Once you have connected to Power BI, you can start creating visualizations for your dashboard. This can involve creating charts, graphs, and tables that display the data in a meaningful way.
 
-VII. Add interactivity: Once you have created your visualizations, you can add interactivity to your dashboard. This can involve adding filters, slicers, and drill-downs that allow users to explore the data in more detail.
+`Add interactivity:` Once you have created your visualizations, you can add interactivity to your dashboard. This can involve adding filters, slicers, and drill-downs that allow users to explore the data in more detail.
 
 
 
-<div align="right">[ <a href="#table-of-contents">↑ to top ↑</a> ]</div>
+<div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
 
