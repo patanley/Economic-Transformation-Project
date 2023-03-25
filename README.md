@@ -3,7 +3,7 @@
   <br /><br /><strong>Economic Transformation Database Project</strong>
 </h1>
 
-<img src="C:\Users\patan\Documents\GitHub\Economic-Transformation-Project\Images\Economic_Transformation.png" alt="Olympic Medals" width="1100" height = "450" align="center">
+
 ---
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
