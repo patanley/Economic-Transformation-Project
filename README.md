@@ -1,9 +1,7 @@
-<h1 align="center" style="display: block; font-size: 2.5em; font-weight: bold; margin-block-start: 1em; margin-block-end: 1em;">
+<h1 align="center" style="color:MediumSeaGreen;"> <b> Economic Transformation Database Project  </b></h1>
 
-  <br /><br /><strong>Economic Transformation Database Project</strong>
-</h1>
-
-
+<div align="center"><a href="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png"><img src="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
+  
 ---
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
@@ -29,8 +27,7 @@ The problem statement for this data analytics project is to investigate the stru
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
-## :bar_chart:  Data
-## More than embedded[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#more-than-embedded)
+## Data[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#more-than-embedded)
 The ETD is also accessible through [Download the database](https://www.rug.nl/ggdc/structuralchange/etd/).
 
 
@@ -58,10 +55,13 @@ Key questions:
 
 > 💡 Technical
 
-`ETL` was used for integrating and consolidating data from multiple sources, making it accessible and usable for data analytics and business intelligence purposes.
+<a href="https://learn.microsoft.com/en-us/sql/integration-services/ssis-how-to-create-an-etl-package?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" alt="VisualStudio SSIS" width="60" height="60"/> </a> 
+`ETL` was used for integrating and consolidating data from multiple sources, making it accessible and usable for data analytics and business intelligence purposes. 
 
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a>
 `SQL` was used for data extraction and manipulation to create a clean, integrated dataset that includes the variables of value added at constant and current prices, and persons employed. 
 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="90" height="60"/> </a>
 `Power BI` was used for data visualization and analysis to generate insights into the economic and labor dynamics of the selected economies and sectors.
 
 
