@@ -1,0 +1,37 @@
+﻿Indicators_Id,Indicators,Abrev
+VA,Agriculture,Agi
+VA,Mining,Min
+VA,Manufacturing,Man
+VA,Utilities,Utl
+VA,Construction,Con
+VA,Trade services,Tds
+VA,Transport services,Tss
+VA,Business services,Bss
+VA,Financial services,Fss
+VA,Real estate,Ret
+VA,Government services,Gss
+VA,Other services,Oss
+VA_Q15,Agriculture,Agi
+VA_Q15,Mining,Min
+VA_Q15,Manufacturing,Man
+VA_Q15,Utilities,Utl
+VA_Q15,Construction,Con
+VA_Q15,Trade services,Tds
+VA_Q15,Transport services,Tss
+VA_Q15,Business services,Bss
+VA_Q15,Financial services,Fss
+VA_Q15,Real estate,Ret
+VA_Q15,Government services,Gss
+VA_Q15,Other services,Oss
+EMP,Agriculture,Agi
+EMP,Mining,Min
+EMP,Manufacturing,Man
+EMP,Utilities,Utl
+EMP,Construction,Con
+EMP,Trade services,Tds
+EMP,Transport services,Tss
+EMP,Business services,Bss
+EMP,Financial services,Fss
+EMP,Real estate,Ret
+EMP,Government services,Gss
+EMP,Other services,Oss
