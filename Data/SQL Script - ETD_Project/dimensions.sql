@@ -6,8 +6,8 @@ Drop table if exists dim.Variables;
 
 SELECT [VAR] as 'VAR'
 		,CASE
-			WHEN [VAR] = 'VA' THEN 'Nominal_GDP (millions, local currency)'
-			WHEN [VAR] = 'VA_Q15' THEN 'Real_GDP (millions, local currency)'
+			WHEN [VAR] = 'VA' THEN 'Nominal_GDP (millions)'
+			WHEN [VAR] = 'VA_Q15' THEN 'Real_GDP (millions)'
 			WHEN [VAR] = 'EMP' THEN 'Employment (thousands)'
 		END as 'Variables'
   INTO dim.Variables
