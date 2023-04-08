@@ -3,6 +3,8 @@ https://www.wider.unu.edu/project/etd-economic-transformation-database
 https://www5.wider.unu.edu/#/?graph=bar&indicators=3&activeIndicators=3&countries=GHA&activeCountries=GHA
 
 
+https://www.rug.nl/ggdc/structuralchange/previous-sector-database/10-sector-2014
+
 https://www.wider.unu.edu/database/etd-%E2%80%93-economic-transformation-database
 
 https://inforiver.com/reporting-powerbi/
