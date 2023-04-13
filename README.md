@@ -1,4 +1,4 @@
-<h1 align="center" style="color:MediumSeaGreen;"> <b> Economic Transformation Database Project  </b></h1>
+<h1 align="center" style="color:MediumSeaGreen;"> <b> World Development Indicators  </b></h1>
 
 <div align="center"><a href="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png"><img src="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
   
@@ -6,14 +6,14 @@
 
 ## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
 
-**ETDP** (_Economic Transformation Database_) provides comprehensive, long-term, and internationally comparable sectoral data on employment and productivity in Africa, Asia, and Latin America. [ETD – Economic Transformation Database](https://www.wider.unu.edu/project/etd-economic-transformation-database).  
+**WDI** (_World Development Indicators_) provides comprehensive, long-term, and internationally comparable sectoral data on employment and productivity in Africa, Asia, and Latin America. [World Development Indicators](https://datacatalog.worldbank.org/search/dataset/0037712).  
 
 ---
 
 ## Objective[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#objective)
-The objective of this data analytics project is to analyze and visualize the measures of economic growth and labor inputs for 51 economies in Africa, Asia, and Latin America, across 12 sectors of the total economy, using time series with annual data from 1990 until 2018. 
+The objective of this data analytics project is to analyze and visualize the concept of economic growth, its definition, measurement, and the challenges associated with it. The project also aims to explore the historical perspective of economic growth and the inequalities that exist between different regions in terms of prosperity and economic development, using time series with annual data from 1990 until 2021. 
 
-The project will focus on identifying patterns and trends in economic growth and labor inputs over time, highlighting the most significant industries and countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
+The project will focus on identifying patterns and trends in economic growth by analysing GDP growth and GDP per capita growth over time, highlighting the most significant countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
 
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
@@ -42,10 +42,10 @@ The ETD is also accessible through [Download the database](https://www.rug.nl/gg
 > 💡 Ultimately, the results of this project can inform policymakers, business leaders, and development practitioners on strategies for promoting economic growth and improving livelihoods in developing countries.
 
 Key questions:
-* What is the industrialization experience of developing economies in recent decades?
-* What is the relation between growth, female labour force participation, poverty reduction and sectoral patterns of employment and production?
-* Can countries achieve growth, provide good jobs, and reduce poverty without industrialization?
-* Can modern agriculture and modern services serve as an alternative mechanism of structural transformation and economic growth?
+* What is the correlation between urbanization and economic prosperity, and how does it differ across countries with varying levels of GDP per capita?
+* How has the historical perspective of economic growth shaped the current state of prosperity and economic development in different regions?
+* What are the main factors contributing to the inequalities that exist between regions in terms of economic development and prosperity?
+
 
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
