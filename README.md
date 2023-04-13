@@ -1,4 +1,4 @@
-<h1 align="center" style="color:MediumSeaGreen;"> <b> World Development Indicators Project  </b></h1>
+<h1 align="center" style="color:MediumSeaGreen;"> <b> World Development Indicators  </b></h1>
 
 <div align="center"><a href="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png"><img src="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
   
