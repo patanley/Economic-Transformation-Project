@@ -67,12 +67,21 @@ Key questions:
 <a href="https://learn.microsoft.com/en-us/sql/integration-services/ssis-how-to-create-an-etl-package?view=sql-server-ver16" target="_blank" rel="noreferrer"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2022/11/vs-icon.svg" alt="VisualStudio SSIS" width="60" height="60"/> </a> 
 `ETL` was used for integrating and consolidating data from multiple sources, making it accessible and usable for data analytics and business intelligence purposes. 
 
+
+<img src="Images/ETL 3.jpg"/>
+
+
+
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </a>
 `SQL` was used for data extraction and manipulation to create a clean, integrated dataset that includes the variables of value added at constant and current prices, and persons employed. 
+
+<img src="Images/FactTable.png"/>
+
 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="PowerBI" width="90" height="60"/> </a>
 `Power BI` was used for data visualization and analysis to generate insights into the economic and labor dynamics of the selected economies and sectors.
 
+<img src="Images/StarSchema.png"/>
 
 
 > 💡 Business
