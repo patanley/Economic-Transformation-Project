@@ -1,16 +1,16 @@
 <h1 align="center" style="color:MediumSeaGreen;"> <b> World Development Indicators  </b></h1>
 
-<div align="center"><a href="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png"><img src="https://github.com/patanley/Economic-Transformation-Project/blob/main/Images/Economic_Transformation.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
+<div align="center"><a href="https://github.com/patanley/World-Development-Indicators/blob/main/Images/WDI.png"><img src="https://github.com/patanley/World-Development-Indicators/blob/main/Images/WDI.png" alt="IoT-to-Cloud (Nebula) network" style="width:70%;height:70%"/></a></div>
   
 ---
 
-## Introduction[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#introduction)
+## Introduction[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 **WDI** (_World Development Indicators_) provides comprehensive, long-term, and internationally comparable sectoral data on employment and productivity in Africa, Asia, and Latin America. [World Development Indicators](https://datacatalog.worldbank.org/search/dataset/0037712).  
 
 ---
 
-## Objective[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#objective)
+## Objective[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 The objective of this data analytics project is to analyze and visualize the concept of economic growth, its definition, measurement, and the challenges associated with it. The project also aims to explore the historical perspective of economic growth and the inequalities that exist between different regions in terms of prosperity and economic development, using time series with annual data from 1990 until 2021. 
 
 The project will focus on identifying patterns and trends in economic growth by analysing GDP growth and GDP per capita growth over time, highlighting the most significant countries driving growth in the targeted regions. By leveraging data analytics tools, this project will provide valuable insights to inform policy-making and business decisions for promoting economic development and job creation in these regions.
@@ -19,12 +19,21 @@ The project will focus on identifying patterns and trends in economic growth by 
 
 ---
 
-## Problem Statement[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#ProblemStatement)
+## Problem Statement[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 The problem statement for this data analytics project is to investigate the structural transformation of economies over time, particularly in developing countries and low-income economies. Structural transformation is a key aspect of economic development that involves shifting from low-productivity sectors to those of higher productivity, often resulting in the emergence and expansion of new industries that can contribute to better jobs and improved livelihoods. 
 
 
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
+
+---
+
+## Urbanization and prosperity[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
+
+> 💡Urbanization and economic prosperity are strongly correlated as the following visualization shows. In most countries with a GDP per capita higher than 20,000     international-$ more than 60% of the population lives in cities.
+
+
+<img src="Images/Urbanization&Prosperity.gif"/>
 
 ---
 ## Data[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#more-than-embedded)
@@ -37,7 +46,7 @@ The ETD is also accessible through [Download the database](https://www.rug.nl/gg
 
 ---
 
-## Use Case[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#UseCase)
+## Use Case[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 > 💡 Ultimately, the results of this project can inform policymakers, business leaders, and development practitioners on strategies for promoting economic growth and improving livelihoods in developing countries.
 
@@ -51,7 +60,7 @@ Key questions:
 
 ---
 
-## Scope[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#software-build)
+## Scope[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 > 💡 Technical
 
@@ -72,7 +81,7 @@ The project will focus on identifying patterns and trends in economic growth and
 
 ---
 
-## Method[![](https://raw.githubusercontent.com/aregtech/areg-sdk/master/docs/img/pin.svg)](#method)
+## Method[![](https://github.com/patanley/TrendChart/blob/main/Images/pin.svg)](#overview)
 
 > 💡 Steps
 
