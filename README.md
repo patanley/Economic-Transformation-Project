@@ -112,6 +112,8 @@ The project will focus on identifying patterns and trends in economic growth and
 
 
 
+> 💡 [Click on the link to watch video](https://www.youtube.com/watch?v=2yJTvk3s2yI)
+
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
 ---
