@@ -110,9 +110,13 @@ The project will focus on identifying patterns and trends in economic growth and
 
 `Add interactivity:` Once you have created your visualizations, you can add interactivity to your dashboard. This can involve adding filters, slicers, and drill-downs that allow users to explore the data in more detail.
 
+---
+
+> 💡 [Click on the image to watch video]
+
+[![Road Casualty Report](https://img.youtube.com/vi/2yJTvk3s2yI/0.jpg)](https://www.youtube.com/watch?v=2yJTvk3s2yI)
 
 
-> 💡 [Click on the link to watch video](https://www.youtube.com/watch?v=2yJTvk3s2yI)
 
 <div align="right">[ <a href="#introduction">↑ to top ↑</a> ]</div>
 
